@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.icon {
+  font-size: 100px;
+}
+
+.myroundedborders {
+  border-radius: 15px;
+}
+
+.myfont {
+  font-size: 140px;
+  font-family: "Cardo", serif;
+}
